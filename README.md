@@ -1,4 +1,3 @@
-# 
 
 #### Health Insurance Cross Sell
 ## O Contexto do Problema de Negócio
@@ -29,4 +28,5 @@ Como resultado da consultoria, é preciso entregar um relatório contendo alguma
 - Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?
 
 ## O planejamento da solução
-[Detalhes do projeto](https://github.com/geordanogg/Health_Insurance/tree/master/health_insurance)
+[Detalhes do projeto](https://github.com/geordanogg/Health_Insurance/tree/master/health_insurance_cross_sell)
+
