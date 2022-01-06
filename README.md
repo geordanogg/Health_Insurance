@@ -1,4 +1,4 @@
-
+![insurance_cover](insurance_cover.png)
 #### Health Insurance Cross Sell
 ## O Contexto do Problema de Negócio
 
